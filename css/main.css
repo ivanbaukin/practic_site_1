@@ -1,0 +1,36 @@
+body {
+    background-color: #212121 !important;
+}
+.header {
+    max-width: 1440px;
+}
+.wrapper {
+    max-width: 1440px;
+    height: 100%;
+    margin: auto;
+    
+}
+.navbar-nav > li {
+    opacity: 0.78;
+    font-family: Montserrat;
+    font-size: 35px;
+    font-weight: 400;
+    text-transform: uppercase;
+    margin-left: 10px;
+    text-decoration: none;
+}
+
+.nav-link {
+    color: #afc67b !important;
+}
+
+.nav-link :hover {
+    color: #d4f38b;
+}
+
+.layout_1 {
+    background: url(../img/place_1.png) no-repeat;
+    background-size: contain;
+    width: 100%;
+    height: 1000px;
+}
